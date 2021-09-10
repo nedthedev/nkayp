@@ -1,7 +1,9 @@
-## **Hey!** :wave:
+### **Hey!** :wave:
 I'm just a person that spends a lot of time writing code and spending too much time configuring my Linux.
 
-### **My Favorite Languages** :snake:
+<br>
+
+### **A little about me** :snake:
 I'm usually writing code in Python, but I also use a good amount of JavaScript. From time to time I write code in Go, C++, or C#, but Python is my go-to. I've only recently started keeping my repositories public, so my projects look pretty slim...
 
 ### **Here's some projects of mine**
