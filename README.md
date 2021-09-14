@@ -8,7 +8,4 @@ I'm usually writing code in Python, but I also use a good amount of JavaScript. 
 - [PolybarGameDeals](https://github.com/nkayp/PolybarGameDeals)
 - [Github Pages Website](https://github.com/nkayp/nkayp.github.io)
 
-### **Contact**
-Email: nkayp2049@gmail.com
-
 [![](https://img.shields.io/badge/pgp-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
