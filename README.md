@@ -14,6 +14,6 @@ I'm usually writing Python code, but I also write a good amount of JavaScript. F
 
 ---
 ### **Contact**
-:mailbox_with_mail: nkayp2049@gmail.com
+**:mailbox_with_mail:** nkayp2049@gmail.com
 
 [![](https://img.shields.io/badge/gpg-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
