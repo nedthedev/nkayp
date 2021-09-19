@@ -1,4 +1,4 @@
-### **Hello!** 😺
+### 😺 **Hello!**
 I spend a lot of time writing code and too much time configuring my Linux.
 
 ---
@@ -11,6 +11,12 @@ I spend a lot of time writing code and too much time configuring my Linux.
 ![](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-32x32.png)
 
 I'm usually writing Python code, but I also write a good amount of JavaScript. From time to time I also write code in Go, Lua, or Rust, but Python is my go-to.
+
+---
+
+### **Here's a project to check out**
+
+- [PolybarGameDeals](https://nkayp.github.io/PolybarGameDeals)
 
 ---
 
