@@ -17,10 +17,11 @@ I'm usually writing Python code, but I also write a good amount of JavaScript. F
 ### **Here's a project to check out**
 
 - [PolybarGameDeals](https://github.com/nkayp/PolybarGameDeals)
+  - This is a Python project that fetches and stores the best game deals for PC and Playstation
 
 ---
 
 ### **Contact**
 📬 nkayp2049@gmail.com
 
-[![](https://img.shields.io/badge/GPG&nbsp;🔑-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
+[![](https://img.shields.io/badge/GPG-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
