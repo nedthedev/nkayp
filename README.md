@@ -16,7 +16,7 @@ I'm usually writing Python code, but I also write a good amount of JavaScript. F
 
 ### **Here's a project to check out**
 
-- [PolybarGameDeals](https://nkayp.github.io/PolybarGameDeals)
+- [PolybarGameDeals](https://github.com/nkayp/PolybarGameDeals)
 
 ---
 
