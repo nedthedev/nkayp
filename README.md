@@ -1,4 +1,4 @@
-### 😺 **Hello!**
+### **Hello!**
 I spend a lot of time writing code and too much time configuring my Linux.
 
 ---
@@ -24,4 +24,4 @@ I'm usually writing Python code, but I also write a good amount of JavaScript. F
 ### **Contact**
 📬 nkayp2049@gmail.com
 
-[![](https://img.shields.io/badge/GPG-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
+[![](https://img.shields.io/badge/PGP-0x6B4790D645B092F7-blue)](https://github.com/nkayp.gpg)
