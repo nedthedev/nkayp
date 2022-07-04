@@ -13,4 +13,4 @@ I spend a lot of time writing code and too much time configuring my Linux.
 ### **Contact**
 📬 nkayp2049@gmail.com
 
-[![](https://img.shields.io/badge/PGP-0xDE3018BADFAAE9EBF2566658A62371076F059659-blue)](https://github.com/nkayp.gpg)
+[![](https://img.shields.io/badge/PGP-0xA62371076F059659-blue)](https://github.com/nkayp.gpg)
